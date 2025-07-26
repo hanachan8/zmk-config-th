@@ -97,6 +97,8 @@
                 // Back
                 &bt BT_SEL 0 &bt BT_SEL 1
     	    >;
+
+            // Encoder ( Upper CCW CW, Middle Left(UP) Right(Down), Left(UP) Right(Down))
             sensor-bindings = <&rot_kp LG(Z) LS(LG(Z))>, <&scroll_move_y>, <&rot_kp LG(PLUS) LG(MINUS)>;
     	};
 
