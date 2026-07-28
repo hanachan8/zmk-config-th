@@ -3,11 +3,12 @@ Branches
 - [Armors](https://github.com/Taro-Hayashi/zmk-config-th/tree/Armors)
 - [Shotgun](https://github.com/Taro-Hayashi/zmk-config-th/tree/Shotgun)
 
-## 2% Milk
+## Cannonball LL
 
-The default configuration builds the `two_percent_milk` shield for the
+The Cannonball LL configuration builds the `two_percent_milk` shield for the
 `adafruit_kb2040//zmk` board target. Its two keys are initially assigned to `X`
-and `Z`.
+and `Z`. The internal shield name is retained because it defines the compatible
+hardware wiring.
 
 ### Edit the keymap
 
