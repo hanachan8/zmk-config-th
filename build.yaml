@@ -1,5 +1,5 @@
 ---
 include:
-  - board: adafruit_kb2040
+  - board: adafruit_kb2040//zmk
     shield: two_percent_milk
     artifact-name: two_percent_milk

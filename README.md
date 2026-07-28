@@ -6,7 +6,8 @@ Branches
 ## 2% Milk
 
 The default configuration builds the `two_percent_milk` shield for the
-`adafruit_kb2040` board. Its two keys are initially assigned to `X` and `Z`.
+`adafruit_kb2040//zmk` board target. Its two keys are initially assigned to `X`
+and `Z`.
 
 ### Edit the keymap
 
