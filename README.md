@@ -1,6 +1,6 @@
 # ZMK Config
 
-作者の複数プロダクト用ZMK設定をもとにした、自分用のリポジトリです。
+作者はやしたろう様の複数プロダクト用ZMK設定をもとにした、自分用のリポジトリです。
 
 `main` ブランチはテスト用です。実機用の設定は
 [`Cannonball-LL`](https://github.com/hanachan8/zmk-config-th/tree/Cannonball-LL)
