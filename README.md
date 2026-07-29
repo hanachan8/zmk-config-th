@@ -1,6 +1,6 @@
-# Cannonball LL
+# ZMK Config
 
-作者のCannonball LL用ZMK設定を、自分用にフォークしたリポジトリです。
+作者の複数プロダクト用ZMK設定をもとにした、自分用のリポジトリです。
 
 `main` ブランチはテスト用です。実機用の設定は
 [`Cannonball-LL`](https://github.com/hanachan8/zmk-config-th/tree/Cannonball-LL)
@@ -14,4 +14,4 @@
 4. Edit the bindings and save. The editor commits the updated keymap to GitHub,
    which triggers the firmware build workflow.
 
-Original hardware: [Taro-Hayashi/Cannonball-LL](https://github.com/Taro-Hayashi/Cannonball-LL)
+Original repository: [Taro-Hayashi/zmk-config-th](https://github.com/Taro-Hayashi/zmk-config-th)
